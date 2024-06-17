@@ -2,7 +2,6 @@
 This is the repo which records the recent progress of tool learning based on LLMs. We list works following the structure of tutorail, and will constantly update it, welcome to raise a issue to add new works!!
 
 ## Table of Contents
-
 <details open>
 <summary>table of contents</summary>
 
