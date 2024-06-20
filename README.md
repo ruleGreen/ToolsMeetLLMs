@@ -1,5 +1,7 @@
 # Empowering LLMs: Tool Learning with Real-World Interactions
-This is the repo which records the recent progress of tool learning based on LLMs. We list works following the structure of tutorail, and will constantly update it, welcome to raise a issue to add new works!!
+This is the official repo for SIGIR 2024 tutorial: Empowering LLMs: Tool Learning with Real-World Interactions. More details can be found in https://rulegreen.github.io/services/tools-meet-llm/ 
+
+We record the recent progress of tool learning based on LLMs. We list works following the structure of tutorail, and will constantly update it, welcome to raise a issue to add new works!!
 
 ## Table of Contents
 <details open>
@@ -139,3 +141,14 @@ This is the repo which records the recent progress of tool learning based on LLM
 
 
 </details>
+
+
+
+```
+@article{tools_meet_llm,
+    author    = { Hongru Wang, Yujia Qin, Yankai Lin, Jeff Z. Pan and Kam-fai Wong},
+    title     = { SIGIR 2024 Tutorial: Empowering Large Language Models: Tool Learning for Real-World Interaction},
+    journal   = { SIGIR 2024 },
+    year      = { 2024 },
+}
+```
