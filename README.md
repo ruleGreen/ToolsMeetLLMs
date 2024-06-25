@@ -12,7 +12,7 @@ We record the recent progress of tool learning based on LLMs. We list works foll
     - [1.1 Cognitive Tools](#11-cognitive-tools)
     - [1.2 Physical Tools](#12-physical-tools)
 - [2 Components and Architecture of Tool Learning](#2-components-and-architecture-of-tool-learning)
-    - [2.1 Tool Set](#21-too-set)
+    - [2.1 Tool Set](#21-tool-set)
     - [2.2 Controller/Planner](#22-controller)
     - [2.3 Environments](#23-environment)
     - [2.4 Perceiver](#24-perceiver)
@@ -23,8 +23,7 @@ We record the recent progress of tool learning based on LLMs. We list works foll
 - [4 Application of Tool Learning](#4-application-of-tool-learning)
     - [4.1 Tool Creation, Selection and Utilization](#41-tool-creation-selection-and-utilization)
     - [4.2 Tool Learning in IR](#42-tool-learning-in-ir)
-    - [4.3 Tool Learning in Recommendation](#43-tool-learning-in-recommendation)
-    - [4.4 Tool Learning in Embodied Env](#44-tool-learning-in-embodied-env)
+    - [4.3 Tool Learning in Embodied Env](#43-tool-learning-in-embodied-env)
 - [5 Advanced Topics and Future Directions](#5-advanced-topics-and-future-directions)
     - [5.1 Multi-modal and Multi-agent Tool Learning](#51-multi-modal-and-multi-agent-tool-learning)
     - [5.2 Safe, Trsutworthy and Personalized Tool Learning](#52-safe-trustworthy-and-personalized-tool-learning)
@@ -34,7 +33,7 @@ We record the recent progress of tool learning based on LLMs. We list works foll
 </details>
 
 
-## Survey
+## 0 Survey
 
 - [Tool Learing with Large Language Models: A Survey](https://arxiv.org/abs/2405.17935) `2024/05`
 
@@ -44,7 +43,7 @@ We record the recent progress of tool learning based on LLMs. We list works foll
 
 - [Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354) `2023/04`
 
-## Defnition and Scope of Tools
+## 1 Defnition and Scope of Tools
 <details open>
 <summary>defnition and scope of tools</summary>
 
@@ -52,7 +51,7 @@ We record the recent progress of tool learning based on LLMs. We list works foll
 - [1 Physical Tools](#1-physical-tools)
 </details>
 
-### Coginitive Tools
+### 1.1 Cognitive Tools
 <details open>
 <summary>relevant cognitive tools</summary>
 
@@ -68,7 +67,7 @@ We record the recent progress of tool learning based on LLMs. We list works foll
 </details>
 
 
-### Physical Tools
+### 1.2 Physical Tools
 <details open>
 <summary>relevant physical tools</summary>
 
@@ -80,44 +79,75 @@ We record the recent progress of tool learning based on LLMs. We list works foll
 </details>
 
 
-## Components and Architecture of Tool Learning
+## 2 Components and Architecture of Tool Learning
 
-### Tool Set
+
+### 2.1 Tool Set
 
 `tool structure`
 
-### Controller
+### 2.2 Controller
 
 - [ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases](https://arxiv.org/pdf/2306.05301) multi-modal
 
-### Environments
+- [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/pdf/2305.18323)
+
+- [ART: Automatic multi-step reasoning and tool-use for large language models](https://arxiv.org/pdf/2303.09014)
+
+- [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf)
+
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629.pdf)
+
+
+
+### 2.3 Environments
 
 - [Evaluating llms in multi-turn interaction with tools and language feedback.]
 
 - [Metatool benchmark for large language models: Deciding whether to use tools and which to use.]
 
-### Structure of Tools
 
 ## Tool Learning based on LLMs
 
+
+### Tool-oriented Learning
+
+
+
+### Tool-augmented Learning
+
+
+### Learning of Tool Learning
+
+- [GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction](https://arxiv.org/pdf/2305.18752.pdf)
+
+
 ## Application of Tool Learning
+
 
 ### Tool Creation Selection and Utilization
 
+- [CRUXEval: A Benchmark for Code Reasoning Understanding and Execution]
 
-- [Craft: Customizing llms by creating and retrieving from specialized toolsets]
+- [Toolrerank: Adaptive and hierarchy-aware reranking for tool retrieval](https://aclanthology.org/2024.lrec-main.1413/)
 
-- [Toolrerank: Adaptive and hierarchy-aware reranking for tool retrieval]
+- [Craft: Customizing llms by creating and retrieving from specialized toolsets](https://arxiv.org/pdf/2309.17428.pdf)
+
+- [CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models](https://aclanthology.org/2023.findings-emnlp.462/)
+
 
 
 ### Tool Learning in Embodied Environment
 
 - [A Solution-based LLM API-using Methodology for Academic Information Seeking]
 
-- [SCIENCEWORLD: Is your Agent Smarter than a 5th Grader?] `Interactive Env`
+- [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291.pdf) `2023.05`
 
-- [ALFWorld: Aligning Text and Embodied Environments for Interactive Learning]
+- [SCIENCEWORLD: Is your Agent Smarter than a 5th Grader?](https://arxiv.org/abs/2203.07540.pdf)    `22.03` `Interactive Env` 
 
+- [ALFWorld: Aligning Text and Embodied Environments for Interactive Learning](https://arxiv.org/abs/2010.03768.pdf) `2020.10`
+
+- [VirtualHome: Simulating Household Activities via Programs](https://arxiv.org/pdf/1806.07011.pdf)
 
 
 - [On the tool manipulation capability of open-source large language models]
@@ -132,6 +162,8 @@ We record the recent progress of tool learning based on LLMs. We list works foll
 
 
 ### Multi-modal and Multi-agent Tool Learning
+
+- [WEBARENA: A REALISTIC WEB ENVIRONMENT FOR BUILDING AUTONOMOUS AGENTS](https://arxiv.org/abs/2307.13854.pdf)
 
 ### Safe, Trustworthy and Personalized Tool Learning
 
