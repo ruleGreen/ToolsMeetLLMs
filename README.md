@@ -192,10 +192,21 @@ We record the recent progress of tool learning based on LLMs. We list works foll
 </details>
 
 ```
-@article{tools_meet_llm,
-    author    = { Hongru Wang, Yujia Qin, Yankai Lin, Jeff Z. Pan and Kam-fai Wong},
-    title     = { SIGIR 2024 Tutorial: Empowering Large Language Models: Tool Learning for Real-World Interaction},
-    journal   = { SIGIR 2024 },
-    year      = { 2024 },
+@inproceedings{toolmeetllm,
+        author = {Wang, Hongru and Qin, Yujia and Lin, Yankai and Pan, Jeff Z. and Wong, Kam-Fai},
+        title = {Empowering Large Language Models: Tool Learning for Real-World Interaction},
+        year = {2024},
+        isbn = {9798400704314},
+        publisher = {Association for Computing Machinery},
+        address = {New York, NY, USA},
+        url = {https://doi.org/10.1145/3626772.3661381},
+        doi = {10.1145/3626772.3661381},
+        abstract = {Since the advent of large language models (LLMs), the field of tool learning has remained very active in solving various tasks in practice, including but not limited to information retrieval. This half-day tutorial provides basic concepts of this field and an overview of recent advancements with several applications. In specific, we start with some foundational components and architecture of tool learning (i.e., cognitive tool and physical tool), and then we categorize existing studies in this field into tool-augmented learning and tool-oriented learning, and introduce various learning methods to empower LLMs this kind of capability. Furthermore, we provide several cases about when, what, and how to use tools in different applications. We end with some open challenges and several potential research directions for future studies. We believe this tutorial is suited for both researchers at different stages (introductory, intermediate, and advanced) and industry practitioners who are interested in LLMs and tool learning.},
+        booktitle = {Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+        pages = {2983–2986},
+        numpages = {4},
+        keywords = {language agents, large language models, tool learning},
+        location = {Washington DC, USA},
+        series = {SIGIR '24}
 }
 ```
