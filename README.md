@@ -135,37 +135,61 @@ see above
 
 * [Chat with the Environment: Interactive Multimodal Perception Using Large Language Models](https://arxiv.org/pdf/2303.08268)
 
-## Tool Learning based on LLMs
+## 3 Tool Learning based on LLMs
 
-### Tool-oriented Learning
+### 3.1 Tool-oriented Learning
 
 * [A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis](https://arxiv.org/pdf/2307.12856)
 
-### Tool-augmented Learning
+### 3.2 Tool-augmented Learning
 
 * [JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models](https://arxiv.org/pdf/2311.05997)
 * [Chain of Code: Reasoning with a Language Model-Augmented Code Emulator](https://arxiv.org/pdf/2312.04474)
 * [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/pdf/2403.03101)
 * [ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models](https://arxiv.org/abs/2305.14323)
 
-### Learning of Tool Learning
+### 3.3 Learning of Tool Learning
 
 - [GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction](https://arxiv.org/pdf/2305.18752.pdf)
 - [Making Language Models Better Tool Learners with Execution Feedback](https://arxiv.org/abs/2305.13068)
 
-## Application of Tool Learning
+## 4 Application of Tool Learning
 
-### Tool Creation Selection and Utilization
+### 4.1 Tool Creation Selection and Utilization
 
 - [CRUXEval: A Benchmark for Code Reasoning Understanding and Execution](https://arxiv.org/abs/2401.03065.pdf)
 
 - [Toolrerank: Adaptive and hierarchy-aware reranking for tool retrieval](https://aclanthology.org/2024.lrec-main.1413/)
-- [Craft: Customizing llms by creating and retrieving from specialized toolsets](https://arxiv.org/pdf/2309.17428.pdf)
-- [CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models](https://aclanthology.org/2023.findings-emnlp.462/)
-- [Empowering Large Language Model Agents through Action Learning](https://arxiv.org/abs/2402.15809)
-- 
 
-### Tool Learning in Embodied Environment
+- [Craft: Customizing llms by creating and retrieving from specialized toolsets](https://arxiv.org/pdf/2309.17428.pdf)
+
+- [CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models](https://aclanthology.org/2023.findings-emnlp.462/)
+
+- [Empowering Large Language Model Agents through Action Learning](https://arxiv.org/abs/2402.15809)
+
+
+### 4.2 Tool Learning in IR
+
+- [UniMS-RAG: A Unified Multi-source Retrieval-Augmented Generation for Personalized Dialogue Systems](https://arxiv.org/abs/2401.13256.pdf) :fire::fire::fire:
+
+- [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511.pdf) :fire::fire::fire::fire::fire:
+
+- [UniRetriever: Multi-task Candidates Selection for Various Context-Adaptive Conversational Retrieval](https://arxiv.org/abs/2402.16261.pdf)
+
+- [Active Retrieval Augmented Generation] `EMNLP 2023` :fire::fire::fire: interesting and useful -> may can be used in dialogues
+
+- [I^3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval](https://arxiv.org/abs/2306.02371)
+
+- [Learning Retrieval Augmentation for Personalized Dialogue Generation](https://aclanthology.org/2023.emnlp-main.154.pdf) `EMNLP 2023`
+
+- [PK-ICR: Persona-Knowledge Interactive Multi-Context Retrieval for Grounded Dialogue](https://aclanthology.org/2023.emnlp-main.1020.pdf) `EMNLP 2023`
+
+- [Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions](https://aclanthology.org/2023.acl-long.557.pdf) `ACL 2023`
+
+- [Self-Knowledge Guided Retrieval Augmentation for Large Language Models](https://aclanthology.org/2023.findings-emnlp.691/) `EMNLP 2023`
+
+
+### 4.3 Tool Learning in Embodied Environment
 
 - [A Solution-based LLM API-using Methodology for Academic Information Seeking]
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291.pdf) `2023.05`
@@ -181,7 +205,7 @@ see above
 - [Reasoning with Language Model is Planning with World Model](https://arxiv.org/pdf/2305.14992)
 - [An Embodied Generalist Agent in 3D World](https://arxiv.org/pdf/2311.12871)
 
-## Advanced Topic and Future Directions
+## 5 Advanced Topic and Future Directions
 
 <details open>
 <summary>defnition and scope of tools</summary>
@@ -190,7 +214,7 @@ see above
 - [1 Safe, Trustworthy and Personalized Tool Learning](#1-safe-trustworthy-and-personalized-tool-learning)
 - [2 Emerging Trends and Future Opportunities](#2-emerging-trends-and-future-opportunities)
 
-### Multi-modal and Multi-agent Tool Learning
+### 5.1 Multi-modal and Multi-agent Tool Learning
 
 - [Scaling Large-Language-Model-based Multi-Agent Collaboration](https://arxiv.org/pdf/2406.07155.pdf) `multi-agent`
 
@@ -202,12 +226,14 @@ see above
 
 
 
-### Safe, Trustworthy and Personalized Tool Learning
+### 5.2 Safe, Trustworthy and Personalized Tool Learning
 
 - [Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agent](https://arxiv.org/pdf/2402.11208.pdf)
 
 
-### Emerging Trends and Future Opportunities
+### 5.3 Emerging Trends and Future Opportunities
+
+- [Self-DC: When to retrieve and When to generate? Self Divide-and-Conquer for Compositional Unknown Questions](https://arxiv.org/abs/2402.13514.pdf) :fire::fire:
 
 - [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/abs/2403.08319.pdf)
 
