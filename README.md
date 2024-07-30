@@ -163,7 +163,9 @@ see above
 
 - [AutoGuide: Automated Generation and Selection ofState-Aware Guidelines for Large Language Model Agents](https://arxiv.org/pdf/2403.08978)
 
-### 2.3 Environments
+### 2.3 Environments / Benchmarks
+
+- [TOOLTALK: EVALUATING TOOL USAGE IN A CONVERSATIONAL SETTING](https://arxiv.org/abs/2311.10775.pdf)
 
 - [MINT: Evaluating llms in multi-turn interaction with tools and language feedback](https://arxiv.org/abs/2309.10691.pdf)
 
@@ -171,7 +173,16 @@ see above
 
 ### 2.4 Perceiver
 
-* [Chat with the Environment: Interactive Multimodal Perception Using Large Language Models](https://arxiv.org/pdf/2303.08268)
+- [Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives](https://arxiv.org/pdf/2401.02009.pdf)
+
+- [Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization](https://arxiv.org/abs/2402.17574.pdf)
+
+- [CRITIC: LARGE LANGUAGE MODELS CAN SELFCORRECT WITH TOOL-INTERACTIVE CRITIQUING](https://arxiv.org/pdf/2305.11738) first to use external feedback from tools to critic/refine outputs of LLMs? [[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)]
+
+- [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366)
+
+- [Chat with the Environment: Interactive Multimodal Perception Using Large Language Models](https://arxiv.org/pdf/2303.08268)
+
 
 ## 3 Tool Learning based on LLMs
 
@@ -199,13 +210,21 @@ see above
 
 ### 4.1 Tool Creation Selection and Utilization
 
-- [CRUXEval: A Benchmark for Code Reasoning Understanding and Execution](https://arxiv.org/abs/2401.03065.pdf)
+#### Tool Creation
 
-- [Toolrerank: Adaptive and hierarchy-aware reranking for tool retrieval](https://aclanthology.org/2024.lrec-main.1413/)
+- [LARGE LANGUAGE MODELS AS TOOL MAKERS](https://arxiv.org/abs/2305.17126.pdf)
 
 - [Craft: Customizing llms by creating and retrieving from specialized toolsets](https://arxiv.org/pdf/2309.17428.pdf)
 
 - [CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models](https://aclanthology.org/2023.findings-emnlp.462/)
+
+#### Tool Selection and Utilization
+
+- [TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems](https://openreview.net/pdf?id=8rfeWF4ZNt) `ICLR2024`
+
+- [CRUXEval: A Benchmark for Code Reasoning Understanding and Execution](https://arxiv.org/abs/2401.03065.pdf)
+
+- [Toolrerank: Adaptive and hierarchy-aware reranking for tool retrieval](https://aclanthology.org/2024.lrec-main.1413/)
 
 - [Empowering Large Language Model Agents through Action Learning](https://arxiv.org/abs/2402.15809)
 
@@ -259,6 +278,11 @@ see above
 
 - [An Embodied Generalist Agent in 3D World](https://arxiv.org/pdf/2311.12871)
 
+
+### 4.4 Tool Learning for All
+
+- [FACTOOL: Factuality Detection in Generative AI A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios](https://arxiv.org/abs/2307.13528.pdf) [[code](https://github.com/GAIR-NLP/factool)]
+
 ## 5 Advanced Topic and Future Directions
 
 <details open>
@@ -292,6 +316,8 @@ see above
 - [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/abs/2403.08319.pdf)
 
 - [Metacognitive Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2402.11626.pdf) tools conflicts
+
+- [TORA: A TOOL-INTEGRATED REASONING AGENT FOR MATHEMATICAL PROBLEM SOLVING](https://arxiv.org/pdf/2309.17452) :fire::fire::fire: [code]
 
 </details>
 
