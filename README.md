@@ -165,6 +165,10 @@ see above
 
 ### 2.3 Environments / Benchmarks
 
+- [ToolEyes: Fine-Grained Evaluation for Tool Learning Capabilities of Large Language Models in Real-world Scenarios](https://arxiv.org/abs/2401.00741.pdf)
+
+- [CToolEval: A Chinese Benchmark for LLM-Powered Agent Evaluation in Real-World API Interactions] chinese benchmark
+
 - [TOOLTALK: EVALUATING TOOL USAGE IN A CONVERSATIONAL SETTING](https://arxiv.org/abs/2311.10775.pdf)
 
 - [MINT: Evaluating llms in multi-turn interaction with tools and language feedback](https://arxiv.org/abs/2309.10691.pdf)
@@ -219,6 +223,10 @@ see above
 - [CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models](https://aclanthology.org/2023.findings-emnlp.462/)
 
 #### Tool Selection and Utilization
+
+- [EASYTOOL: ENHANCING LLM-BASED AGENTS WITH CONCISE TOOL INSTRUCTION](https://openreview.net/pdf?id=3TuG3S68bb) optimizate tool documentation
+
+- [TOOLVERIFIER: Generalization to New Tools via Self-Verification](https://arxiv.org/pdf/2402.14158) finetune a model to select tool based on desc, and propose questions to self-refine decisions
 
 - [TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems](https://openreview.net/pdf?id=8rfeWF4ZNt) `ICLR2024`
 
@@ -305,6 +313,9 @@ see above
 
 
 ### 5.2 Safe, Trustworthy and Personalized Tool Learning
+
+- [ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages](https://arxiv.org/abs/2402.10753.pdf) `ACL 2024`
+
 
 - [Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agent](https://arxiv.org/pdf/2402.11208.pdf)
 
