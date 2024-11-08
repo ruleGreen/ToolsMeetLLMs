@@ -64,6 +64,7 @@ We record the recent progress of tool learning based on LLMs. We list works foll
 
 </details>
 
+
 ### 1.1 Cognitive Tools
 
 <details open>
@@ -103,7 +104,9 @@ We record the recent progress of tool learning based on LLMs. We list works foll
 
 see above
 
-### 2.2 Controller
+### 2.2 Controller / Planner
+
+- [Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees](https://arxiv.org/pdf/2406.07115.pdf) :fire::fire::fire:
 
 - [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/abs/2304.09842.pdf)
 
@@ -291,6 +294,8 @@ see above
 
 - [FACTOOL: Factuality Detection in Generative AI A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios](https://arxiv.org/abs/2307.13528.pdf) [[code](https://github.com/GAIR-NLP/factool)]
 
+- [Tool-Augmented Reward Modeling](https://arxiv.org/abs/2310.01045.pdf)
+
 ## 5 Advanced Topic and Future Directions
 
 <details open>
@@ -302,6 +307,14 @@ see above
 
 ### 5.1 Multi-modal and Multi-agent Tool Learning
 
+- [AppBench: Planning of Multiple APIs from Various APPs for Complex User Instruction](https://arxiv.org/abs/2410.19743.pdf) :fire::fire::fire::fire::fire:
+
+- [Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation](http://arxiv.org/abs/2410.13232v1.pdf)
+
+- [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement]
+
+- [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents]
+
 - [Scaling Large-Language-Model-based Multi-Agent Collaboration](https://arxiv.org/pdf/2406.07155.pdf) `multi-agent`
 
 - [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/pdf/2406.01014.pdf)
@@ -311,11 +324,13 @@ see above
 - [WEBARENA: A REALISTIC WEB ENVIRONMENT FOR BUILDING AUTONOMOUS AGENTS](https://arxiv.org/abs/2307.13854.pdf) `multi-modal`
 
 
-
 ### 5.2 Safe, Trustworthy and Personalized Tool Learning
 
-- [ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages](https://arxiv.org/abs/2402.10753.pdf) `ACL 2024`
+- [SECGPT: An Execution Isolation Architecture for LLM-Based Systems](https://arxiv.org/abs/2403.04960) :fire::fire::fire::fire:
 
+- [Towards Tool Use Alignment of Large Language Models] `safety and autonmy`
+
+- [ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages](https://arxiv.org/abs/2402.10753.pdf) `ACL 2024`
 
 - [Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agent](https://arxiv.org/pdf/2402.11208.pdf)
 
