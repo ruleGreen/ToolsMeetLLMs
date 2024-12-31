@@ -309,6 +309,8 @@ see above
 
 - [AppBench: Planning of Multiple APIs from Various APPs for Complex User Instruction](https://arxiv.org/abs/2410.19743.pdf) :fire::fire::fire::fire::fire:
 
+- [Learning to Use Tools via Cooperative and Interactive Agents with Large Language Models](https://aclanthology.org/2024.findings-emnlp.624.pdf) :fire::fire:
+
 - [Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation](http://arxiv.org/abs/2410.13232v1.pdf)
 
 - [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement]
