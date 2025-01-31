@@ -328,6 +328,18 @@ see above
 
 ### 5.2 Safe, Trustworthy and Personalized Tool Learning
 
+- [RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning](https://aclanthology.org/2024.emnlp-main.19.pdf)
+
+- [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019)
+
+- [GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning](https://arxiv.org/pdf/2406.09187)
+
+- [AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents](https://arxiv.org/pdf/2406.13352.pdf)
+
+- [INJECAGENT: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents](https://aclanthology.org/2024.findings-acl.624.pdf)
+
+- [IDENTIFYING THE RISKS OF LM AGENTS WITH AN LM-EMULATED SANDBOX](https://arxiv.org/pdf/2309.15817.pdf)
+
 - [SECGPT: An Execution Isolation Architecture for LLM-Based Systems](https://arxiv.org/abs/2403.04960) :fire::fire::fire::fire:
 
 - [Towards Tool Use Alignment of Large Language Models] `safety and autonmy`
