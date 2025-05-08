@@ -209,9 +209,12 @@ see above
 
 ### 3.3 Learning of Tool Learning
 
+- [START: Self-taught Reasoner with Tools](https://arxiv.org/pdf/2503.04625.pdf)
+
 - [GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction](https://arxiv.org/pdf/2305.18752.pdf)
 
 - [Making Language Models Better Tool Learners with Execution Feedback](https://arxiv.org/abs/2305.13068)
+
 
 ## 4 Application of Tool Learning
 
@@ -226,6 +229,8 @@ see above
 - [CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models](https://aclanthology.org/2023.findings-emnlp.462/)
 
 #### Tool Selection and Utilization
+
+- [T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models](https://arxiv.org/pdf/2504.04718.pdf)
 
 - [EASYTOOL: ENHANCING LLM-BASED AGENTS WITH CONCISE TOOL INSTRUCTION](https://openreview.net/pdf?id=3TuG3S68bb) optimizate tool documentation
 
@@ -351,13 +356,24 @@ see above
 
 ### 5.3 Emerging Trends and Future Opportunities
 
-- [Self-DC: When to retrieve and When to generate? Self Divide-and-Conquer for Compositional Unknown Questions](https://arxiv.org/abs/2402.13514.pdf) :fire::fire:
+- [Alignment for Efficient Tool Calling of Large Language Models](https://arxiv.org/pdf/2503.06708.pdf) `only one tool for one problem, just one call`
 
-- [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/abs/2403.08319.pdf)
+- [Adaptive Tool Use in Large Language Models with Meta-Cognition Trigger](https://arxiv.org/abs/2502.12961.pdf)
+
+- [SMART: Self-Aware Agent for Tool Overuse Mitigation](https://arxiv.org/abs/2502.11435.pdf)
+
+- [Self-DC: When to retrieve and When to generate? Self Divide-and-Conquer for Compositional Unknown Questions](https://arxiv.org/abs/2402.13514.pdf) `NAACL 2025 Oral` :fire::fire::fire:
+
+- [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/abs/2403.08319.pdf) `EMNLP 2024`
 
 - [Metacognitive Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2402.11626.pdf) tools conflicts
 
 - [TORA: A TOOL-INTEGRATED REASONING AGENT FOR MATHEMATICAL PROBLEM SOLVING](https://arxiv.org/pdf/2309.17452) :fire::fire::fire: [code]
+
+
+### 5.4 Tool as Basic Unit in Reinforcement Learning
+
+- [TORL: Scaling Tool-Integrated RL](https://arxiv.org/pdf/2503.23383.pdf)
 
 </details>
 
